@@ -1,0 +1,14 @@
+body {
+    background-color: yellow;
+}
+
+#two {
+    color: red;
+    font-size: 200%;
+    text-align: center;
+}
+
+#three {
+    color: blue;
+    font-size: 200%;
+}
